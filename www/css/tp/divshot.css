@@ -1,0 +1,91 @@
+body { background-color: #999999; overflow-x: hidden; height: 100%; }
+
+
+header {
+    background-color:#ffb658;
+    height:140px;
+    margin-bottom:5px;
+}
+
+.icon-header {
+    height:140px;
+    width:140px;
+    float:left;
+    padding:10px;
+}
+
+h1 { color:white; line-height:100px; }
+
+.left { float:left; margin-left: 15px; }
+
+.right { float:right; margin-right: 15px; }
+
+main { padding-bottom:5px; }
+
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+    margin-left:-4px;
+    margin-right:-4px;
+}
+
+.row { margin-right: 0; margin-left: 0; }
+
+.col-md-4, .col-md-6, .col-md-12 { padding-right: 0; padding-left: 0; }
+
+.beach, .boat { background-color: #73c6fa; }
+.ice-cream, .diving { background-color: #e57373; }
+.cocktail, .surf, .game { background-color: #ffd358; }
+.sun, .sand { background-color: #b25253; }
+.swimming, .shell { background-color: #5897b8; }
+
+
+.block {
+    display:flex;
+    flex-flow:row-wrap;
+    justify-content:center;
+    padding-bottom:40px;
+    margin:5px;
+    position:relative;
+}
+.block-large { height:510px; }
+.block-small { height:250px; }
+
+.icon { display: block; margin: auto; }
+.icon-large { width:150px; height:150px; }
+.icon-small { width:100px; height:100px; }
+
+
+.link p {
+    display:inline-block;
+    color:white;
+    font-size:1.2em;
+    font-family:arial, sans-serif;
+    font-weight:bold;
+    letter-spacing:1px;
+}
+
+.link {
+    height:60px;
+    width:100%;
+    position:absolute;
+    bottom:0;
+    left:0;
+    padding:20px;
+}
+
+.arrow {
+    display: inline-block;
+    float: right;
+    width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+}
+.arrow-thin { background: url(../img/arrow-thin.png); background-size: 20px 20px; }
+.arrow-large { background: url(../img/arrow-large.png); background-size: 20px 20px; }
+
+.link-beach, .link-boat { background-color:#73a9fa; }
+.link-cocktail, .link-surf, .link-game { background-color:#ffb658; }
+.link-ice-cream, .link-diving { background-color:#d24e4e; }
+.link-sun, .link-sand { background-color:#863132; }
+.link-swimming, .link-shell { background-color:#356984; }
