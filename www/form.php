@@ -56,11 +56,14 @@ if(isset($_POST["submit"])) {
 //            echo "Message sent!";
 //        }
 
+        $passage_ligne = "\r\n";
+        $myEmail = 'peyrot.celine@dev-site-web.fr';
 
-        $headers = 'MIME-Version: 1.0' . "\r\n";
-        $headers .= 'Content-type: text/html; charset=utf-8' . "\r\n";
-        $headers .= 'FROM:' . $email;
-        $to = 'peyrot.celine@gmail.com';
+        $header = 'MIME-Version: 1.0' . $passage_ligne;
+        $header .= 'Content-type: text/html; charset=utf-8' . $passage_ligne;
+        $header .= 'FROM:' . $firstname . ' ' . $lastname . '- <' . $myEmail .'>' . $passage_ligne;
+        $header .= 'Reply-to: RETOUR <'. $email . '>'.$passage_ligne;
+        $to = 'peyrot.celine@dev-site-web.fr';
         $subject = 'Message envoyé par ' . $firstname . ' ' . $lastname . ' - <i>' . $email . '</i>';
         $message_content = '
           <table>
@@ -77,12 +80,12 @@ if(isset($_POST["submit"])) {
           <td>' . htmlspecialchars($message) . '</td>
           </tr>
           </table>';
-        $sending = mail($to, $subject, $message_content, $headers);
-        if ($sending) {
-            $sendingStatus = "L'email a bien été envoyé.";
+        $sending = mail($to, $subject, $message_content, $header);
+        if ($sending === true) {
+            $sendingStatus = 'Le mail a bien été envoyé !';
         }
         else {
-            $sendingStatus = "Une erreur s'est produite. L'email n'a pas pu être envoyé :(";
+            $sendingStatus = 'Une erreur s\'est produite. Le mail n\'a pas pu être envoyé.';
         }
         $_SESSION['sending'] = $sendingStatus;
         header('Location: index.php#contact');
