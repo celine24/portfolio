@@ -1,5 +1,4 @@
 <?php
-
 session_start();
 $errors = array();
 
@@ -43,50 +42,50 @@ if(isset($_POST["submit"])) {
         header('Location: index.php#contact');
     }
     else {
-        require_once('vendor/phpmailer/phpmailer/class.phpmailer.php');
-        $mail = new PHPMailer();
-        $mail->SetFrom('$email', '$firstname . \' \' . $lastname');
-        $mail->AddAddress("peyrot.celine@gmail.com", "Céline Peyrot");
-        $mail->Subject = "PHPMailer Test Subject via mail(), basic";
-        $mail->AddReplyTo($email, 'Reply to name');
-        $mail->AltBody = "To view the message, please use an HTML compatible email viewer!"; // optional, comment out and test
-        $mail->MsgHTML($message);
-        if(!$mail->Send()) {
-            echo "Mailer Error: " . $mail->ErrorInfo;
-        } else {
-            echo "Message sent!";
+//        require_once('vendor/phpmailer/phpmailer/class.phpmailer.php');
+//        $mail = new PHPMailer();
+//        $mail->SetFrom('$email', '$firstname . \' \' . $lastname');
+//        $mail->AddAddress("peyrot.celine@gmail.com", "Céline Peyrot");
+//        $mail->Subject = "PHPMailer Test Subject via mail(), basic";
+//        $mail->AddReplyTo($email, 'Reply to name');
+//        $mail->AltBody = "To view the message, please use an HTML compatible email viewer!"; // optional, comment out and test
+//        $mail->MsgHTML($message);
+//        if(!$mail->Send()) {
+//            echo "Mailer Error: " . $mail->ErrorInfo;
+//        } else {
+//            echo "Message sent!";
+//        }
+
+
+        $headers = 'MIME-Version: 1.0' . "\r\n";
+        $headers .= 'Content-type: text/html; charset=utf-8' . "\r\n";
+        $headers .= 'FROM:' . $email;
+        $to = 'peyrot.celine@gmail.com';
+        $subject = 'Message envoyé par ' . $firstname . ' ' . $lastname . ' - <i>' . $email . '</i>';
+        $message_content = '
+          <table>
+          <tr>
+          <td><b>Emetteur du message:</b></td>
+          </tr>
+          <tr>
+          <td>' . $subject . '</td>
+          </tr>
+          <tr>
+          <td><b>Contenu du message:</b></td>
+          </tr>
+          <tr>
+          <td>' . htmlspecialchars($message) . '</td>
+          </tr>
+          </table>';
+        $sending = mail($to, $subject, $message_content, $headers);
+        if ($sending) {
+            $sendingStatus = "L'email a bien été envoyé.";
         }
-
-
-//        $headers = 'MIME-Version: 1.0' . "\r\n";
-//        $headers .= 'Content-type: text/html; charset=utf-8' . "\r\n";
-//        $headers .= 'FROM:' . $email;
-//        $to = 'peyrot.celine@gmail.com';
-//        $subject = 'Message envoyé par ' . $firstname . ' ' . $lastname . ' - <i>' . $email . '</i>';
-//        $message_content = '
-//          <table>
-//          <tr>
-//          <td><b>Emetteur du message:</b></td>
-//          </tr>
-//          <tr>
-//          <td>' . $subject . '</td>
-//          </tr>
-//          <tr>
-//          <td><b>Contenu du message:</b></td>
-//          </tr>
-//          <tr>
-//          <td>' . htmlspecialchars($message) . '</td>
-//          </tr>
-//          </table>';
-//        $sending = mail($to, $subject, $message_content, $headers);
-//        if ($sending) {
-//            $sendingStatus = "L'email a bien été envoyé.";
-//        }
-//        else {
-//            $sendingStatus = "Une erreur s'est produite. L'email n'a pas pu être envoyé :(";
-//        }
-//        $_SESSION['sending'] = $sendingStatus;
-//        header('Location: index.php#contact');
+        else {
+            $sendingStatus = "Une erreur s'est produite. L'email n'a pas pu être envoyé :(";
+        }
+        $_SESSION['sending'] = $sendingStatus;
+        header('Location: index.php#contact');
     }
 }
 else

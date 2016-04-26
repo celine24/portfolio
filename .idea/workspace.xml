@@ -2,157 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bacaea75-223c-4b46-8aa4-c8c1385621ea" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/img/badge/angular.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/img/badge/bootstrap.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/img/badge/css3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/img/badge/git.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/img/badge/html5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/img/badge/javascript.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/img/badge/jquery.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/img/badge/laravel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/img/badge/photoshop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/img/badge/php_mysql.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/img/badge/ruby.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/img/badge/rubyonrails.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/img/badge/sass.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/img/badge/slack.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/img/badge/trello.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/autoload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/composer/ClassLoader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/composer/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/composer/autoload_classmap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/composer/autoload_namespaces.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/composer/autoload_psr4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/composer/autoload_real.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/composer/installed.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/.scrutinizer.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/PHPMailerAutoload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/VERSION" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/changelog.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/class.phpmailer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/class.phpmaileroauth.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/class.phpmaileroauthgoogle.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/class.pop3.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/class.smtp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/composer.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/docs/Callback_function_notes.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/docs/DomainKeys_notes.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/docs/Note_for_SMTP_debugging.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/docs/extending.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/docs/faq.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/docs/generatedocs.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/docs/pop3_article.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/code_generator.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/contents.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/contentsutf8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/exceptions.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/gmail.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/gmail_xoauth.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/images/phpmailer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/images/phpmailer_mini.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/mail.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/mailing_list.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/pop_before_smtp.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/scripts/XRegExp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/scripts/shAutoloader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/scripts/shBrushPhp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/scripts/shCore.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/scripts/shLegacy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/send_file_upload.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/sendmail.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/signed-mail.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/smtp.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/smtp_check.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/smtp_no_auth.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/ssl_options.phps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/styles/shCore.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/styles/shCoreDefault.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/styles/shCoreDjango.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/styles/shCoreEclipse.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/styles/shCoreEmacs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/styles/shCoreFadeToGrey.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/styles/shCoreMDUltra.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/styles/shCoreMidnight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/styles/shCoreRDark.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/styles/shThemeAppleScript.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/styles/shThemeDefault.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/styles/shThemeDjango.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/styles/shThemeEclipse.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/styles/shThemeEmacs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/styles/shThemeFadeToGrey.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/styles/shThemeMDUltra.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/styles/shThemeMidnight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/styles/shThemeRDark.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/styles/shThemeVisualStudio.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/examples/styles/wrapping.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/extras/EasyPeasyICS.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/extras/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/extras/htmlfilter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/extras/ntlm_sasl_client.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/get_oauth_token.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-am.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-ar.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-az.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-be.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-bg.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-br.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-ca.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-ch.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-cz.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-de.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-dk.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-el.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-eo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-es.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-et.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-fa.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-fi.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-fo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-fr.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-gl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-he.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-hr.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-hu.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-id.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-it.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-ja.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-ka.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-ko.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-lt.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-lv.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-ms.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-nl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-no.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-pl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-ro.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-ru.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-se.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-sk.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-sl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-sr.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-tr.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-uk.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-vi.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh_cn.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/test/bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/test/fakepopserver.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/test/fakesendmail.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/test/phpmailerLangTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/test/phpmailerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/test/runfakepopserver.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/test/test_callback.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/test/testbootstrap-dist.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/vendor/phpmailer/phpmailer/travis.phpunit.xml.dist" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/_style.css" afterPath="$PROJECT_DIR$/www/css/_style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/form.php" afterPath="$PROJECT_DIR$/www/form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.php" afterPath="$PROJECT_DIR$/www/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/partials/portfolio.php" afterPath="$PROJECT_DIR$/www/partials/portfolio.php" />
     </list>
     <ignored path="portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -174,12 +28,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.108834825">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            <state vertical-scroll-proportion="-22.23077">
+              <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="53" />
+              <folding>
+                <marker date="1461676092409" expanded="true" signature="57:1776" placeholder="..." />
+                <marker date="1461676092409" expanded="true" signature="64:459" placeholder="..." />
+                <marker date="1461676092409" expanded="true" signature="466:1768" placeholder="..." />
+                <marker date="1461676092409" expanded="true" signature="497:1100" placeholder="..." />
+                <marker date="1461676092409" expanded="true" signature="628:1089" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_portfolio.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/css/layout/_portfolio.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.153846">
+              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/partials/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-28.76923">
+              <caret line="44" column="44" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.74304634">
+              <caret line="87" column="46" selection-start-line="87" selection-start-column="46" selection-end-line="87" selection-end-column="46" />
+              <folding>
+                <marker date="1461676168371" expanded="true" signature="2635:2961" placeholder="..." />
+                <marker date="1461676168371" expanded="true" signature="2650:2713" placeholder="..." />
+                <marker date="1461676168371" expanded="true" signature="2728:2780" placeholder="..." />
+                <marker date="1461676168371" expanded="true" signature="2795:2857" placeholder="..." />
+                <marker date="1461676168371" expanded="true" signature="2872:2942" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -201,7 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/www/js/tp/cupcake.js" />
         <option value="$PROJECT_DIR$/www/css/tp/cupcake.css" />
         <option value="$PROJECT_DIR$/www/tp/cupcake.html" />
         <option value="$PROJECT_DIR$/www/css/tp/divshot.css" />
@@ -233,25 +128,26 @@
         <option value="C:/wamp64/bin/apache/apache2.4.17/bin/php.ini" />
         <option value="$PROJECT_DIR$/www/.htaccess" />
         <option value="$PROJECT_DIR$/www/composer.json" />
-        <option value="$PROJECT_DIR$/www/form.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/www/css/layout/_structure.scss" />
         <option value="$PROJECT_DIR$/www/partials/about.php" />
-        <option value="$PROJECT_DIR$/www/partials/portfolio.php" />
-        <option value="$PROJECT_DIR$/www/partials/contact.php" />
-        <option value="$PROJECT_DIR$/www/css/layout/_contact.scss" />
         <option value="$PROJECT_DIR$/www/partials/home.php" />
         <option value="$PROJECT_DIR$/www/partials/menu.php" />
-        <option value="$PROJECT_DIR$/www/index.php" />
         <option value="$PROJECT_DIR$/www/css/layout/_menu-mobile.scss" />
         <option value="$PROJECT_DIR$/www/css/_style.scss" />
-        <option value="$PROJECT_DIR$/www/css/layout/_about.scss" />
-        <option value="$PROJECT_DIR$/www/css/layout/_portfolio.scss" />
-        <option value="$PROJECT_DIR$/www/css/layout/_page_slider.scss" />
         <option value="$PROJECT_DIR$/www/css/base/_base.scss" />
-        <option value="$PROJECT_DIR$/www/css/layout/_menu.scss" />
         <option value="$PROJECT_DIR$/www/css/base/_variables.scss" />
+        <option value="$PROJECT_DIR$/www/css/layout/_page_slider.scss" />
+        <option value="$PROJECT_DIR$/www/css/layout/_header.scss" />
+        <option value="$PROJECT_DIR$/www/css/layout/_menu.scss" />
+        <option value="$PROJECT_DIR$/www/css/layout/_about.scss" />
         <option value="$PROJECT_DIR$/www/css/layout/_home.scss" />
+        <option value="$PROJECT_DIR$/www/css/layout/_contact.scss" />
+        <option value="$PROJECT_DIR$/www/partials/portfolio.php" />
+        <option value="$PROJECT_DIR$/www/css/layout/_portfolio.scss" />
+        <option value="$PROJECT_DIR$/www/index.php" />
+        <option value="$PROJECT_DIR$/www/partials/contact.php" />
+        <option value="$PROJECT_DIR$/www/form.php" />
       </list>
     </option>
   </component>
@@ -431,11 +327,11 @@
       <recent name="C:\Users\PeopleAre\Documents\SITES\portfolio\www\font" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\portfolio\www" />
+      <recent name="C:\xampp\htdocs\portfolio\www\partials" />
       <recent name="C:\xampp\htdocs\portfolio" />
       <recent name="C:\xampp\htdocs\portfolio\www\css\base" />
       <recent name="C:\Users\PeopleAre\Documents\SITES\portfolio\www\tp\tictactoe" />
-      <recent name="C:\Users\PeopleAre\Documents\SITES\portfolio\www\tp\todolist" />
-      <recent name="C:\Users\PeopleAre\Documents\SITES\portfolio\www\tp\divshot" />
     </key>
   </component>
   <component name="RunManager">
@@ -525,13 +421,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/font/fontawesome/_path.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/font/fontawesome/_icons.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -679,40 +568,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.058278147">
-          <caret line="54" column="53" selection-start-line="54" selection-start-column="53" selection-end-line="54" selection-end-column="53" />
-          <folding>
-            <marker date="1461326483513" expanded="true" signature="2624:2976" placeholder="..." />
-            <marker date="1461326483513" expanded="true" signature="2641:2708" placeholder="..." />
-            <marker date="1461326483513" expanded="true" signature="2725:2781" placeholder="..." />
-            <marker date="1461326483513" expanded="true" signature="2798:2864" placeholder="..." />
-            <marker date="1461326483513" expanded="true" signature="2881:2955" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/layout/_header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6153846">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/partials/portfolio.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.090066224">
-          <caret line="109" column="68" selection-start-line="109" selection-start-column="68" selection-end-line="109" selection-end-column="68" />
           <folding />
         </state>
       </provider>
@@ -725,30 +584,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/layout/_contact.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.85562915">
-          <caret line="107" column="3" selection-start-line="107" selection-start-column="3" selection-end-line="107" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/partials/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11258278">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.018182">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/partials/home.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.8461537">
@@ -757,66 +592,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/layout/_portfolio.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/layout/_about.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/layout/_page_slider.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14049587">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/base/_base.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16391185">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/layout/_menu.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6487603">
-          <caret line="68" column="19" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/css/_style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.9230769">
           <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/base/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.9230769">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/layout/_home.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="24" column="7" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -909,11 +688,135 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/layout/_page_slider.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.345454">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/base/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3278237">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/layout/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.045033112">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/layout/_menu.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023415977">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.108834825">
+        <state vertical-scroll-proportion="0.0">
           <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/layout/_home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/base/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/layout/_contact.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9615384">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/layout/_about.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.0">
+          <caret line="77" column="11" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2682927">
+          <caret line="0" column="3219" selection-start-line="0" selection-start-column="3217" selection-end-line="0" selection-end-column="3219" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/partials/portfolio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13509934">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.23077">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="53" />
+          <folding>
+            <marker date="1461676092409" expanded="true" signature="57:1776" placeholder="..." />
+            <marker date="1461676092409" expanded="true" signature="64:459" placeholder="..." />
+            <marker date="1461676092409" expanded="true" signature="466:1768" placeholder="..." />
+            <marker date="1461676092409" expanded="true" signature="497:1100" placeholder="..." />
+            <marker date="1461676092409" expanded="true" signature="628:1089" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/layout/_portfolio.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.153846">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/partials/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-28.76923">
+          <caret line="44" column="44" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74304634">
+          <caret line="87" column="46" selection-start-line="87" selection-start-column="46" selection-end-line="87" selection-end-column="46" />
+          <folding>
+            <marker date="1461676168371" expanded="true" signature="2635:2961" placeholder="..." />
+            <marker date="1461676168371" expanded="true" signature="2650:2713" placeholder="..." />
+            <marker date="1461676168371" expanded="true" signature="2728:2780" placeholder="..." />
+            <marker date="1461676168371" expanded="true" signature="2795:2857" placeholder="..." />
+            <marker date="1461676168371" expanded="true" signature="2872:2942" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>

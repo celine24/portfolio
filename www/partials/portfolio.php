@@ -4,9 +4,9 @@
         <div class="wrapper-content">
             <ul id="filters" class="clearfix">
                 <li><span class="filter active" data-filter="site tp maquette">Tout</span></li>
-                <li><span class="filter" data-filter="site">Sites Web</span></li>
-                <li><span class="filter" data-filter="tp">TPs</span></li>
-                <li><span class="filter" data-filter="maquette">Maquettes</span></li>
+                <li><span class="filter" data-filter="site">Site</span></li>
+                <li><span class="filter" data-filter="tp">TP</span></li>
+                <li><span class="filter" data-filter="maquette">Maquette</span></li>
             </ul>
             <div id="portfoliolist">
                 <div class="portfolio tp" data-cat="tp">

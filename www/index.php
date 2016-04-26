@@ -19,7 +19,6 @@ session_start();
         <!-- /Menu -->
 
         <div class="main-container">
-
             <!-- Home -->
             <?php include("partials/home.php"); ?>
             <!-- /Home -->
