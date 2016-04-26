@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bacaea75-223c-4b46-8aa4-c8c1385621ea" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/_style.css" afterPath="$PROJECT_DIR$/www/css/_style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/form.php" afterPath="$PROJECT_DIR$/www/form.php" />
     </list>
     <ignored path="portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -79,11 +79,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_page_slider.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_page_slider.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/css/layout/_page_slider.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8043011">
+            <state vertical-scroll-proportion="-7.056604">
               <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_portfolio.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/css/layout/_portfolio.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.55284554">
+              <caret line="77" column="19" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/partials/portfolio.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.6923077">
+              <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -152,11 +172,11 @@
         <option value="$PROJECT_DIR$/www/css/layout/_home.scss" />
         <option value="$PROJECT_DIR$/www/css/layout/_contact.scss" />
         <option value="$PROJECT_DIR$/www/partials/portfolio.php" />
-        <option value="$PROJECT_DIR$/www/css/layout/_portfolio.scss" />
         <option value="$PROJECT_DIR$/www/index.php" />
         <option value="$PROJECT_DIR$/www/partials/contact.php" />
         <option value="$PROJECT_DIR$/www/form.php" />
         <option value="$PROJECT_DIR$/www/css/layout/_page_slider.scss" />
+        <option value="$PROJECT_DIR$/www/css/layout/_portfolio.scss" />
       </list>
     </option>
   </component>
@@ -388,7 +408,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="289" width="1932" height="793" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17954071" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -753,22 +773,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/partials/portfolio.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13509934">
-          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/layout/_portfolio.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.153846">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/form.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.8846154">
@@ -793,20 +797,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.384615">
-          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="53" />
-          <folding>
-            <marker date="1461676092409" expanded="true" signature="57:1776" placeholder="..." />
-            <marker date="1461676092409" expanded="true" signature="64:459" placeholder="..." />
-            <marker date="1461676092409" expanded="true" signature="466:1768" placeholder="..." />
-            <marker date="1461676092409" expanded="true" signature="497:1100" placeholder="..." />
-            <marker date="1461676092409" expanded="true" signature="628:1089" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/partials/contact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-28.76923">
@@ -825,8 +815,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/css/layout/_page_slider.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8043011">
+        <state vertical-scroll-proportion="-7.056604">
           <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.384615">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="53" />
+          <folding>
+            <marker date="1461676092409" expanded="true" signature="57:1776" placeholder="..." />
+            <marker date="1461676092409" expanded="true" signature="64:459" placeholder="..." />
+            <marker date="1461676092409" expanded="true" signature="466:1768" placeholder="..." />
+            <marker date="1461676092409" expanded="true" signature="497:1100" placeholder="..." />
+            <marker date="1461676092409" expanded="true" signature="628:1089" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/partials/portfolio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6923077">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/layout/_portfolio.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55284554">
+          <caret line="77" column="19" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
           <folding />
         </state>
       </provider>
