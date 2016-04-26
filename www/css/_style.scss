@@ -2,11 +2,9 @@
 
 @import 'base/_reset';
 @import 'base/_variables';
-
-@import 'layout/_structure';
+@import 'base/_base';
 
 @import 'layout/_header';
-@import 'layout/_menu-mobile';
 @import 'layout/_menu';
 
 @import 'layout/_page_slider';
